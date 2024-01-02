@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="logo">
+<img src = "logo.png" alt = "your logo">
+</div>
+
+    <h3 style="text-align: right; margin-right: 20px; font-size: 24px; margin-top: 70px;">International Institute of Information Technology, Hyderabad</h3>
+
+    <h2 style="text-align: left; font-size: 20px; margin-top: -35px; font-style: italic; color: gold;">
+        Silver Jubilee Celebration
+    </h2>
+
+    <nav>
+        <a href="#">About</a>
+        <a href="#">Community</a>
+        <a href="#">Academics</a>
+        <a href="#">Admissions</a>
+        <a href="#">Research</a>
+        <a href="#">Outreach</a>
+        <a href="#">Careers</a>
+        <a href="#">Placements</a>
+        <a href="#">Giving</a>
+        <a href="#">Merchandise</a>
+        <a href="#">Contact Us</a>
+    </nav>
+<div class="top-strip">
+        Master of Science in Information Technology (MSIT)
+    </div>
+
+    <div class="full-width-box"></div>
+    <style>
+        nav {
+            text-align: right;
+        }
+
+        .top-strip {
+            background-color: lightblue;
+            border-bottom: 2px solid #87CEEB;
+            padding: 10px;
+            color: black;
+            font-size: 18px;
+        }
+
+        .full-width-box {
+            background-color: lightblue;
+            height: 10px; 
+            width: 100%;
+        }
+.logo{
+margin:10px;}
+    </style>
+<div class="centered-content">
+        <p>
+            MSIT provides a 2-year, 3 semesters (6 mini-semesters) a year, post-graduate IT education which emphasizes a project-based curriculum. The educational process is based on the Learning by Doing methodology and uses personalized mentoring, instead of conventional classroom teaching. The learning modules use online content where lectures play a secondary role in the form of web-based tutored video. The student evaluation is based on demonstrating mastery of the concepts by completing the assigned tasks. MSIT attempts to create a corporate-style work environment, where the students work in teams aiming to attain a high level of excellence. In the first year, students complete a 6 mini-semester (duration of each mini-semester is 8 weeks) comprehensive curriculum in IT, and in the second year, they undertake domain specialization and a large-scale project in topics including Machine Learning, Data Science, Blockchain Technologies, Full Stack Web Development, Mobile App Development, Information Security, Software Engineering, and DevOps.
+        </p>
+    </div>
+</body>
+</html>
